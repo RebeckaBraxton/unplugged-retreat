@@ -621,6 +621,10 @@ aside .content-wrapper .form {
   width: 45%;
 }
 
+.map figure {
+  padding-bottom: 45%;
+}
+
 .contact-section .content-wrapper h2 {
   width: 80%;
 }
@@ -698,6 +702,10 @@ aside .content-wrapper .form {
   .mission h2,
   .contact-section .contact-wrapper h2 {
     width: 95%;
+  }
+
+  .map figure {
+    padding-bottom: 40%;
   }
 
   /* FAQ Page */
