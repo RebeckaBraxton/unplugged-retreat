@@ -614,6 +614,10 @@ aside .content-wrapper .form {
   width: 49%;
 }
 
+.reviews h3 {
+  margin-top: 0;
+}
+
 /* FAQ Page */
 
 .faq .content-wrapper {
